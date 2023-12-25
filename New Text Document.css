@@ -1,0 +1,54 @@
+td a img {
+    cursor: pointer;
+}
+.43 {
+}
+
+@media screen{
+.logo {
+    cursor: pointer;
+}
+.titlebanner {
+    cursor: text;
+}
+.titletext {
+    cursor: text;
+}
+.rolelist {
+
+}
+.aillus {
+    cursor: crosshair;
+}
+.owner {
+    cursor: pointer;
+}
+.mod {
+    cursor: pointer;
+}
+.amem {
+    cursor: pointer;
+}
+.descred {
+    cursor: pointer;
+}
+.mishun {
+    cursor: pointer;
+}
+.ubbutton {
+}
+.warp {
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
